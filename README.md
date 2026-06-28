@@ -1,2 +1,2 @@
 # dwm
-n9mi's personal dwm configuration
+n9mi's personal dwm build
